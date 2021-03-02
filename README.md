@@ -1,6 +1,6 @@
 # [The App Brewery - Front-end project 03 - Drum kit](https://arpadgbondor.github.io/The_App_Brewery-Front-end_project_03-Drum_kit/)
 
-## Udemy - The Complete 2020 Web Development Bootcamp
+## Udemy - [Dr. Angela Yu - The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 ### Section 13: Advanced Javascript and DOM Manipulation
 This was the second challenge project through the course.
  - HTML5
